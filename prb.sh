@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Test 8"
+echo "Test 9"
 rm -rf file1 file2 prb.log
 touch file1
 touch file2
