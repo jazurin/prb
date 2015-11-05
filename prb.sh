@@ -5,7 +5,7 @@ rm -rf file1 file2 prb.log
 touch file1
 
 # change the string below to cause a OP HW test failure
-#echo "GHPRB!" > file2
-echo "foo" > file2
+echo "GHPRB!" > file2
+#echo "foo" > file2
 ls -al | tee prb.log
 
